@@ -18,10 +18,17 @@
 <p></p>
 <p></p>
 
-<img align=rigth width=200px alt="PyPI - Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=for-the-badge&">
+<h3>Links úteis</h3>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/Nu7nes/)](https://www.github.com/Nu7nes/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nu7nes)](https://www.linkedin.com/in/nu7nes)
 
 
-<img align=right width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align=right width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img align=right width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<p align=right><img align=rigth width=185px alt="PyPI - Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=for-the-badge&"></p>
+
+
+<img align=right width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align=right width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img align=right width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
 
           
         
