@@ -26,10 +26,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nu7nes)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nu7nes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p align=right><img align=rigth width=185px alt="PyPI - Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=for-the-badge&"></p>
 
-
-<img align=right width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align=right width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img align=right width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+<img  width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /> <img  width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img  width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
 
           
