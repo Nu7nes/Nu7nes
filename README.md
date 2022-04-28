@@ -11,11 +11,17 @@
 -->
 <ul>
 <li>💻 Futuro Programador Web</li>
-<li>📖 Estou aprendendo <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b></li>
+<li>📖 Estudando <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b></li>
 <li>😄 Pronomes: ele/dele</li>
 </ul>
 <p></p>
 <p></p>
 <p></p>
 
+<img align=rigth width=200px alt="PyPI - Status" src="https://img.shields.io/badge/status-em%20desenvolvimento-blue?style=for-the-badge&">
 
+
+<img align=right width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img align=right width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" /> <img align=right width=60px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+
+          
+        
