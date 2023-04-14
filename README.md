@@ -12,7 +12,7 @@
 <ul>
 <li>💻 Full Stack Developer</li>
 <li>📖 Learning <b>React JS</b>, <b>Node JS</b> e <b>MongoDB</b></li>
-<li>😄 Pronomes: ele/dele</li>
+<li>😄 Pronouns: he/him</li>
 </ul>
 <p></p>
 <p></p>
