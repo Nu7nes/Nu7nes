@@ -10,8 +10,8 @@
 - ⚡ Fun fact: ...
 -->
 <ul>
-<li>💻 Futuro Programador Web</li>
-<li>📖 Estudando <b>HTML</b>, <b>CSS</b> e <b>JavaScript</b></li>
+<li>💻 Full Stack Developer</li>
+<li>📖 Learning <b>React JS</b>, <b>Node JS</b> e <b>MongoDB</b></li>
 <li>😄 Pronomes: ele/dele</li>
 </ul>
 <p></p>
