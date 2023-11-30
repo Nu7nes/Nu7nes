@@ -25,6 +25,6 @@
 
 <div align="left">
   <a href="https://github.com/Nu7nes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nu7nes&show_icons=true&theme=slateorange&include_all_commits=&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nu7nes&layout=compact&langs_count=7&theme=slateorange"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nu7nes&show_icons=true&theme=slateorange&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nu7nes&layout=compact&langs_count=7&theme=slateorange&locale=pt-br"/>
 </div>
