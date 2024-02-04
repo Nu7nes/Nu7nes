@@ -11,7 +11,7 @@
 -->
 <ul>
 <li>💻 Desenvolvedor FullStack</li>
-<li>📖 Estudando <b>Typescript</b>, <b>Tailwind</b> e <b>OOP</b></li>
+<li>📖 Estudando <b>Typescript</b>, <b>MySQL</b> e <b>OOP</b></li>
 <li>😄 Pronome: ele/dele</li>
 </ul>
 <p></p>
@@ -20,8 +20,15 @@
 
 <h3>Links úteis</h3>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/Nu7nes/)](https://www.github.com/Nu7nes/)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fbrunonunes.site%2F&up_message=brunonunes.site&up_color=3b7de6&style=flat-square&label=Site)
+
+<p></p>
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nu7nes)](https://www.linkedin.com/in/nu7nes)
+
+<p></p>
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/Nu7nes/)](https://www.github.com/Nu7nes/)
 
 <div align="left">
   <a href="https://github.com/Nu7nes">
