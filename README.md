@@ -20,7 +20,7 @@
 
 <h3>Links úteis</h3>
 
-![Website](https://img.shields.io/website?url=https%3A%2F%2Fbrunonunes.site%2F&up_message=brunonunes.site&up_color=3b7de6&style=flat-square&label=Site)
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fbrunonunes.site%2F&up_message=brunonunes.site&up_color=3b7de6&style=flat-square&label=Site)](https://brunonunes.site/)
 
 <p></p>
 
